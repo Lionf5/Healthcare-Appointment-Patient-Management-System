@@ -103,3 +103,15 @@ To build a frontend application that allows:
 ---
 
 ## 📂 Project Structure
+
+Healthcare-System/
+│── index.html
+│── css/
+│ └── styles.css
+│── js/
+│ ├── app.js
+│ ├── patient.js
+│ ├── doctor.js
+│ └── appointment.js
+│── assets/
+│── README.md
